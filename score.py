@@ -6,7 +6,7 @@ from gensim.models import Doc2Vec
 import os
 import numpy as np
 
-model = "app2/imdb.d2v"
+model = "./imdb.d2v"
 
 
 def read_words(s):

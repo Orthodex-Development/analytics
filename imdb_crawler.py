@@ -7,7 +7,6 @@ from label import *
 title = ""
 dic = {'title': 'value'}
 
-
 def movie_review(moviename):
     str(moviename)
     mname = moviename.replace(" ", "+")

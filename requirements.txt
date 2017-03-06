@@ -5,6 +5,6 @@ wtforms
 gensim
 numpy
 cloudpickle
-json
 pyexcel
+pyexcel-xlsx
 nltk
